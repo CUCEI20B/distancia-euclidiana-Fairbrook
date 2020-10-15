@@ -3,7 +3,7 @@
     {
       "name": "test",
       "setup": "sudo apt-get install python3-pytest",
-      "run": "pytest",
+      "run": "python3 -m pytest",
       "input": "",
       "output": "",
       "comparison": "included",
